@@ -1,0 +1,11 @@
+raylib/
+.vscode/
+__pycache__/
+checkpoints/
+*.txt
+
+model/replay.py
+model/test.py
+
+data/*
+!data/pieces.py
